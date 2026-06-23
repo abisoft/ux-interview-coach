@@ -1,0 +1,20 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "QRwtLVPxZPOWNm-JyqWKz"
+uri = "file://ux-interview-coach.tar.gz"
+type = "unspecified"
+title = "UX Interview Coach — Source Code"
+
+[[outputs]]
+id = "hq00pSHGHWrfY0Gcef1Aw"
+uri = "file://ux-interview-coach-dist.tar.gz"
+type = "unspecified"
+title = "UX Interview Coach — Built App (index.html + assets)"
+
+[[outputs]]
+id = "JLtkr-xhp7H21tQ3moHwp"
+uri = "file://ux-interview-coach-source.zip"
+type = "unspecified"
+title = "UX Interview Coach — Full Source Code"
